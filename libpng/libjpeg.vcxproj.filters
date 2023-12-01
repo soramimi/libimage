@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="lpng1640\png.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lpng1640\pngerror.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lpng1640\pngget.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lpng1640\pngmem.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lpng1640\pngpread.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lpng1640\pngrio.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lpng1640\pngrtran.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lpng1640\pngrutil.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lpng1640\pngset.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lpng1640\pngtrans.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lpng1640\pngwio.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lpng1640\pngwtran.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lpng1640\pngwutil.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lpng1640\pngread.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="lpng1640\pngwrite.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lpng1640\png.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="lpng1640\pngconf.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="lpng1640\pngdebug.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="lpng1640\pnginfo.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="lpng1640\pngpriv.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="lpng1640\pngstruct.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
